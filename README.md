@@ -4,7 +4,7 @@
 🎓 3rd-year AI & Data Technologies engineering student at ENSAM Meknès <br>
 🚀 Passionate about AI, Machine Learning, and Computer Vision <br>
 💻 Member of the IT Club, Competitive Programmer, and Self-Learner <br>
-🇲🇦 Based in Morocco
+<img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /> Based in Morocco
 </p>
 
 ---
