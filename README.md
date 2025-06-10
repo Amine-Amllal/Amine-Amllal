@@ -33,20 +33,9 @@
 ### 🛠 Tools  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> Linux &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> VS Code &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"/> Jupyter &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="30"/> Kaggle &nbsp;&nbsp;
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="30"/> Google Colab
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Deep Learning (CNNs, RNNs)
-- NLP & Transformers
-- Software Engineering Best Practices
 
 ---
 
