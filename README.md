@@ -16,7 +16,7 @@
 - Software Engineering Best Practices
 
 ## 📈 GitHub Stats
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineamllal&show_icons=true&theme=radical)
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amine-Amllal&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - 📧 amineamllal@gmail.com
