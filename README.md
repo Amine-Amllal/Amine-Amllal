@@ -25,9 +25,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/> TensorFlow &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> Pandas &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/> NumPy &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/> OpenCV &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="30"/> Scikit-learn
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="30"/> Scikit-learn &nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/> Seaborn
 </p>
 
 ### 🛠 Tools  
