@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Amine Amllal
 
-<!--
-**Amine-Amllal/Amine-Amllal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year AI & Data Technologies engineering student at ENSAM Meknès  
+🚀 Passionate about AI, Machine Learning, and Computer Vision  
+💻 Member of the IT Club, Competitive Programmer, and Self-Learner  
+🇲🇦 Based in Morocco
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 💡 Languages: Python, C++, JavaScript, HTML/CSS, SQL
+- 🔍 AI & Data: Scikit-learn, TensorFlow, Pandas, OpenCV, NumPy
+- 🛠 Tools: VS Code, Git, Linux, Jupyter, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Deep Learning (CNNs, RNNs)
+- NLP & Transformers
+- Software Engineering Best Practices
+
+## 📈 GitHub Stats
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineamllal&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- 📧 amineamllal@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/amineamllal/)
