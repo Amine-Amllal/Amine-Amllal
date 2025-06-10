@@ -27,14 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> Pandas &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/> OpenCV &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="30"/> Scikit-learn &nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/> Seaborn
 </p>
 
 ### 🛠 Tools  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="30"/> Kaggle &nbsp;&nbsp;
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="30"/> Google Colab
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="30"/> Google Colab &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30"/> MATLAB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/> PHP
 </p>
 
 ---
